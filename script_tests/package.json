@@ -16,7 +16,7 @@
     "web3": "^1.10.0"
   },
   "devDependencies": {
-    "mocha": "^8.2.0"
+    "mocha": "^10.2.0"
   },
   "scripts": {
     "test": "mocha --recursive tests --reporter spec --timeout 10000"
